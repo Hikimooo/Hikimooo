@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hikimooo
 - 👀 I’m interested in BE
-- 🌱 I’m currently learning PHP speacially Laravel and CI
+- 🌱 I’m currently learning as Frontend Developer
 
 <!---
 Hikimooo/Hikimooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
