@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hikimooo
-- 👀 I’m interested in BE
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning as Frontend Developer
 
 <!---
